@@ -3,8 +3,7 @@ import streamlit as st
 from PIL import Image
 
 #%% style設定
-with st.chat_message("user"):
-    st.write("您好，我是Albert！歡迎來到我透過 Streamlit 製作的個人頁面")
+
 
 st.markdown("""
    <style>
